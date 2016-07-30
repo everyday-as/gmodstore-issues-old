@@ -1,6 +1,6 @@
 ## ScriptFodder Issue Tracker
 
-This is the public issue tracker for reporting bugs, issues and suggestions to do with the **website**. If you need to report on anything that's not about the website, please [use the forums](https://scriptfodder.com/community).
+This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please [use the forums](https://scriptfodder.com/community).
 
 ###Reporting Bugs
 
@@ -13,6 +13,6 @@ Please follow these guidelines when reporting a bug:
 
 ###Suggesting a feature
 
+* Please avoid adding [tags] to your titles
 * Make sure the feature doesn't already exist
 * Make sure the feature hasn't already been requested (it may already be a feature on the developer build of the site)
-* Please avoid adding [tags] to your titles
