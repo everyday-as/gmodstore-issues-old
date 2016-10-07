@@ -1,8 +1,8 @@
-## ScriptFodder Issue Tracker
+## GModStore Issue Tracker
 
-This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please [use the forums](https://scriptfodder.com/community).
+This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please [use the forums](https://gmodstore.com/community).
 
-###Reporting Bugs
+### Reporting Bugs
 
 Please follow these guidelines when reporting a bug:
 
@@ -11,7 +11,7 @@ Please follow these guidelines when reporting a bug:
 * If you can recreate the bug give us step by step
 * Make sure the bug hasn't already been reported
 
-###Suggesting a feature
+### Suggesting a feature
 
 * Please avoid adding [tags] to your titles
 * Make sure the feature doesn't already exist
