@@ -10,6 +10,7 @@ Please follow these guidelines when reporting a bug:
 * Please be thorough in your bug report. Tell us everything.
 * If you can recreate the bug give us step by step
 * Make sure the bug hasn't already been reported
+* Include an event ID if possible
 
 ### Suggesting a feature
 
