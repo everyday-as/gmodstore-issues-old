@@ -1,6 +1,6 @@
 ## GModStore Issue Tracker
 
-This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please [use the forums](https://gmodstore.com/community).
+This is the public issue tracker for reporting bugs, issues and suggestions related to the **website**. If you need to report on anything that's not about the website, please [use the forums](https://gmodstore.com/community) or a [site ticket](https://gmodstore.com/help).
 
 ### Reporting Bugs
 
@@ -17,3 +17,7 @@ Please follow these guidelines when reporting a bug:
 * Please avoid adding [tags] to your titles
 * Make sure the feature doesn't already exist
 * Make sure the feature hasn't already been requested (it may already be a feature on the developer build of the site)
+
+### Anything else
+
+* Use the appropriate forum board or a site ticket instead
