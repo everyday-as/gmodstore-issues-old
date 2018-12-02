@@ -12,6 +12,7 @@
 
 ## Specifications
 
+  - GmodStore version (see footer):	
   - Example url:
   - Browser:
   - Event ID:
