@@ -5,7 +5,7 @@ This is the public issue tracker for reporting bugs, issues and suggestions rela
 ### Reporting Bugs
 
 Please follow these guidelines when reporting a bug:
-
+* Please make a [site support ticket](https://www.gmodstore.com/help/tickets/create/site) for reporting an exploit instead of making an issue here.
 * Please avoid adding [tags] to your titles
 * Please be thorough in your bug report. Tell us everything.
 * If you can recreate the bug give us step by step
